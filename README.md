@@ -1,20 +1,20 @@
-## screenshots
+## Screenshots
 
 ### Admin Dashboard
 
-![dashboard snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![Dashboard Snap](image.png)
 
 ### Customer Homepage
 
-![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
+![Homepage Snap](image-1.png)
 
 ### Cart
 
-![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
+![Cart Snap](image-2.png)
 
 ### Track Orders
 
-## ![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+## ![Orders Snap](image-3.png)
 
 ## FUNCTIONS
 
@@ -53,9 +53,9 @@ py manage.py createsuperuser
 
 ### Other Features
 
-- customer places order and admin deleted that user(fraud detection), then their orders will automatically deleted
+- Customer places order and admin deleted that user(fraud detection), then their orders will automatically deleted
 
-- suppose 1 customer places 4 products order and admin deleted 2 product from website, then that 2 product order will
+- Suppose 1 customer places 4 products order and admin deleted 2 product from website, then that 2 product order will
   also be deleted and other 2 will be their
 - If user click on purchase button without having products in their cart, then website will ask to add product in cart first.
 
@@ -101,23 +101,3 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 https://myaccount.google.com/lesssecureapps
 ```
-
-## Drawbacks/LoopHoles
-
-- When user edit their profile then he/she must login again because their username/password is updated in db.
-- Popup of product is added to cart is shown when click on Ecommerce logo (soon i will fix it)
-
-## Disclaimer
-
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Contributor
-
-- [Raxa](https://github.com/raxa217)
-
-## Feedback
-
-Any suggestion and feedback is welcome. You can message me on facebook
-
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
