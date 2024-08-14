@@ -2,19 +2,19 @@
 
 ### Admin Dashboard
 
-![Dashboard Snap](image.png)
+![Dashboard Snap](./static/screenshots/image.png)
 
 ### Customer Homepage
 
-![Homepage Snap](image-1.png)
+![Homepage Snap](./static/screenshots/image-1.png)
 
 ### Cart
 
-![Cart Snap](image-2.png)
+![Cart Snap](./static/screenshots/image-2.png)
 
 ### Track Orders
 
-## ![Orders Snap](image-3.png)
+## ![Orders Snap](./static/screenshots/image-3.png)
 
 ## FUNCTIONS
 
